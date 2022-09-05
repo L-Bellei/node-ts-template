@@ -6,7 +6,7 @@
 		"forceConsistentCasingInFileNames": true,
 		"strict": false,
 		"rootDir": "./src",
-		"outDir": "./dist",
+		// "outDir": "./dist",
 		"skipLibCheck": true,
 		"allowJs": true,
 		"lib": ["es6"],
